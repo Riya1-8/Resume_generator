@@ -1,0 +1,21 @@
+/* //profile picture  */
+#profile-pic {
+    max-height: 200px;
+     border-radius: 50%;
+}
+
+.uploaded-image {
+    max-width: 100%;
+    border-radius: 50%;
+    /* max-height: 100%; */
+}
+
+/* template  */
+#cv-template{
+    display: none;
+}
+/* .myimg{
+ border-radius: 50%;
+} */
+.background{
+    background-color: aqua;}
